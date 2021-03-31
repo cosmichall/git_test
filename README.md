@@ -1,0 +1,1 @@
+This is Elena's first git project!
